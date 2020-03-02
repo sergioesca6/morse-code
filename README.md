@@ -14,6 +14,8 @@ Morse code can be memorized, and Morse code signalling in a form perceptible to 
 
 Because many non-English natural languages use other than the 26 Roman letters, Morse alphabets have been developed for those languages.
 
+More can be found here https://en.wikipedia.org/wiki/Morse_code
+
 ## Usage
 
 - Clone or Download repository
