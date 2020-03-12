@@ -2,7 +2,6 @@
 import re
 import sys
 
-#create morse-code encoder/decoder function
 def morse(text):
     #introduce all letters with their respected morse value.
     encrypt = {
